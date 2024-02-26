@@ -3,7 +3,7 @@ This project analyzes the sales data from Olist, a Brazilian e-commerce platform
 The data used in this analysis is sourced from Olist's public dataset available on Kaggle. It includes information on orders, customers, products, and sellers.
 # Toold:- Excel ,SQL
 
-# the kpi's are following
+the kpi's are following
 1. year and Quarter wise sale
 2. month wise total_Quantity
 3. top 10 products by revenue
